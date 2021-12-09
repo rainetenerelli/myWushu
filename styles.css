@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+html { font-family: 'Source Sans Pro', sans-serif; }
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+html {font-family: 'Playfair Display', serif; }
+
+html body
+{
+    background-color: #302C2B !important;
+    color: white !important;
+    padding-top: 45px;
+}
+
+h2
+{
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 53px;
+}
+
+big-name
+{
+    display: block;
+    padding-top: 100px;
+    padding-left: 80px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    line-height: 150px;
+}
+
+small-name
+{
+    display: block;
+    padding-left: 80px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 21px;
+    letter-spacing: 0.18em;
+}
+
+home-intro
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    display: block; 
+    padding-left: 80px;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: justify;
+}
+
+a
+{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.nav-pills .nav-link.active
+{
+    text-decoration: overline;
+    background-color: #BB3D3D !important;
+    color: #BB3D3D;
+}
+
+.dropdown-toggle[aria-expanded="true"]
+{
+    background-color: #BB3D3D !important;
+}
+
+
+.nav-pills .dropdown .dropdown-menu .dropdown-item.active
+{
+    background-color: #ecf1f6 !important;
+    color: black;
+}
+
+p
+{
+    font-family: 'Inter', sans-serif;
+}
+
+strong
+{
+    font-weight: 900;
+}
